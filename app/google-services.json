@@ -1,0 +1,135 @@
+{
+  "project_info": {
+    "project_number": "217979686984",
+    "firebase_url": "https://wedetapp-c90d9.firebaseio.com",
+    "project_id": "wedetapp-c90d9",
+    "storage_bucket": "wedetapp-c90d9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:217979686984:android:5af14c445595bccfe2087d",
+        "android_client_info": {
+          "package_name": "com.example.addhotel"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "217979686984-uvp57mef7d63o47bdqcgqt7isv8cfjpj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCquvGGW9E6U1WkBwFQhaF9VqK1WgKQ8bg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "217979686984-uvp57mef7d63o47bdqcgqt7isv8cfjpj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:217979686984:android:d924aaa6149504c6e2087d",
+        "android_client_info": {
+          "package_name": "com.example.addhotelandlocation"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "217979686984-uvp57mef7d63o47bdqcgqt7isv8cfjpj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCquvGGW9E6U1WkBwFQhaF9VqK1WgKQ8bg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "217979686984-uvp57mef7d63o47bdqcgqt7isv8cfjpj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:217979686984:android:09680acb5ba82c66e2087d",
+        "android_client_info": {
+          "package_name": "com.example.locationapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "217979686984-uvp57mef7d63o47bdqcgqt7isv8cfjpj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCquvGGW9E6U1WkBwFQhaF9VqK1WgKQ8bg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "217979686984-uvp57mef7d63o47bdqcgqt7isv8cfjpj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:217979686984:android:2180b8e5bbb58407e2087d",
+        "android_client_info": {
+          "package_name": "com.example.wedetapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "217979686984-tgkfkdjsp09mo6na1as06sidfieh3bnt.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.wedetapp",
+            "certificate_hash": "5d232ea8e0957f1a77f840c27b9249ded4137f20"
+          }
+        },
+        {
+          "client_id": "217979686984-uvp57mef7d63o47bdqcgqt7isv8cfjpj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCquvGGW9E6U1WkBwFQhaF9VqK1WgKQ8bg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "217979686984-uvp57mef7d63o47bdqcgqt7isv8cfjpj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

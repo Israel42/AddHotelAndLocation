@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+<com.google.android.material.floatingactionbutton.FloatingActionButton
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    app:fabSize="mini"
+    android:layout_gravity="bottom|end"
+    android:layout_margin="@dimen/common_circle_width"
+    android:id="@+id/findhotel"
+    android:visibility="invisible"
+    android:src="@drawable/ic_baseline_hotel_24"/>
+    <com.google.android.material.floatingactionbutton.FloatingActionButton
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        app:fabSize="mini"
+        android:visibility="invisible"
+        android:layout_gravity="bottom|end"
+        android:layout_margin="@dimen/common_circle_width"
+        android:id="@+id/findrestourant"
+        android:src="@drawable/ic_baseline_restaurant_24"/>
+</FrameLayout>
